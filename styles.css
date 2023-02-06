@@ -71,6 +71,7 @@ a:hover {
   margin-left: auto;
   margin-right: auto;
   width: 40%;
+  box-shadow: 5px 5px 5px gray;
 }
 
 #img-caption {
@@ -91,6 +92,15 @@ a:hover {
   width: 30%;
 }
 
+.ada-pictures {
+  display: flex;
+}
+
+.ada-image-captions {
+  display: flex;
+  justify-content: space-evenly;
+}
+
 #ada-feb-2023 {
   display: block;
   margin-left: auto;
@@ -103,4 +113,11 @@ a:hover {
   margin-left: auto;
   margin-right: auto;
   width: 40%;
+}
+
+#ada-feet-animation-caption,
+#ada-feb-2023-caption,
+#ada-talipes-caption {
+  font-family: monospace;
+  text-align: center;
 }
