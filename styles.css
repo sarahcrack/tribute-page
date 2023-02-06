@@ -56,6 +56,15 @@ a:hover {
   font-family: "Bitter", serif;
 }
 
+.ada-pictures {
+  display: flex;
+}
+
+.ada-image-captions {
+  display: flex;
+  justify-content: space-evenly;
+}
+
 .footer {
   font-family: monospace;
   text-align: center;
@@ -93,15 +102,6 @@ a:hover {
   margin-left: auto;
   margin-right: auto;
   width: 30%;
-}
-
-.ada-pictures {
-  display: flex;
-}
-
-.ada-image-captions {
-  display: flex;
-  justify-content: space-evenly;
 }
 
 #ada-feb-2023 {
