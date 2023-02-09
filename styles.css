@@ -14,17 +14,16 @@ h2,
 h3 {
   text-align: center;
   font-family: "Poppins", sans-serif;
+  color: rgb(2, 0, 50);
 }
 
 h1 {
   text-align: center;
-  color: rgb(44, 101, 44);
   font-size: 3em;
   margin: 0 auto;
 }
 
 h3 {
-  color: rgb(44, 101, 44);
   text-decoration: underline;
 }
 
@@ -34,6 +33,7 @@ p {
   text-align: justify;
   font-family: "Poppins", sans-serif;
   font-size: 15px;
+  color: rgb(2, 0, 50);
 }
 
 ul li {
@@ -43,7 +43,7 @@ ul li {
 
 a {
   text-decoration: none;
-  color: rgb(83, 174, 45);
+  color: #a53167;
   font-weight: bolder;
 }
 
@@ -68,8 +68,9 @@ a:hover {
 .footer {
   font-family: monospace;
   text-align: center;
-  font-size: 15px;
+  font-size: 12px;
   padding: 20px;
+  color: rgb(2, 0, 50, 0.8);
 }
 
 #parents {
